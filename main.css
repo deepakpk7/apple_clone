@@ -55,7 +55,7 @@ display: flex;
 }
 img{
 width: 100%;
-height: auto;
+height: 75%;
 }
 
 .sub1{
@@ -86,7 +86,8 @@ font-size: 70px;
 
 }
 
-/* Grid Image inserting*/
+/* sree 
+Grid Image inserting*/
 .grid{
   display: flex;
   background-color: white;
@@ -101,6 +102,7 @@ font-size: 70px;
   text-align: center;
   left: 42%;
   font-size: 70px;
+  height: auto;
   
   }
   /* Grid Image */
