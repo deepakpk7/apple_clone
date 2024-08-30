@@ -161,6 +161,9 @@ div.scroll img {
   height: 97%;
   width: 100%;
 }
+.footer{
+  top: 10%;
+}
 /* Footer */
 .footer{
   display: flex;
