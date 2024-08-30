@@ -52,6 +52,24 @@ img{
   color: black;
   margin: 0;
 }
+.hh1 p{
+  position: absolute;
+  top: 2%;
+  width: 100%;
+  text-align: center;
+  font-size: 4vw;
+  color: black;
+  margin: 0;
+}
+.hh2 p{
+  position: absolute;
+  top: 12%;
+  width: 100%;
+  text-align: center;
+  font-size: 2vw;
+  color: black;
+  margin: 0;
+}
 .btn{
   position: absolute;
   top: 25%;
