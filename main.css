@@ -54,6 +54,7 @@ img{
 }
 .hh1 p{
   position: absolute;
+  align-content: baseline;
   top: 2%;
   width: 100%;
   text-align: center;
